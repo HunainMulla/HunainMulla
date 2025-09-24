@@ -27,10 +27,10 @@ I'm a **Full-Stack Developer** passionate about building **end-to-end web applic
 ## 🏆 Competitive Programming
 
 <p>
-  <a href="https://leetcode.com/your-username" target="_blank">
+  <a href="https://leetcode.com/u/Dev_hunain/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/your-username" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/hunainmuw5ry/" target="_blank">
     <img src="https://images.yourstory.com/cs/images/companies/119169043101580097794440231905187057223611079n-1617083628661.png?fm=auto&ar=1:1&mode=fill&fill=solid&fill-color=fff" alt="GeeksforGeeks" width="40" height="40"/>
   </a>
 </p>
