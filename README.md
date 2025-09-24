@@ -42,7 +42,7 @@ I'm a **Full-Stack Developer** passionate about building **end-to-end web applic
   <a href="https://www.linkedin.com/in/hunainmulla/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/hunain_dev" target="_blank">
+  <a href="https://x.com/HunainMulla006" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="mailto:hunainmulla161@gmail.com">
