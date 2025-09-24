@@ -15,9 +15,11 @@ I'm a **Full-Stack Developer** passionate about building **end-to-end web applic
   <img src="https://images.icon-icons.com/2699/PNG/512/postgresql_src_logo_icon_170834.png" alt="postgressql" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://www.britwise.com/assets/imgs/meanstack-development/expressjslogo.png" alt="Python" width="40" height="40"/>
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/redux-logo.png" alt="Redux" width="40" height="40"/>
   <img src="https://brandslogos.com/wp-content/uploads/images/large/figma-logo.png" alt="Figma" width="30" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://logospng.org/download/c-plus-plus/c-plus-plus-4096.png" alt="C++" width="40" height="40"/>
 </p>
 
 ---
